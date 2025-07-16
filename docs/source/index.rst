@@ -75,5 +75,5 @@ Resources
 ---------
 
 - Official Website: https://www.scenedetect.com/
-- Documentation: https://scenedetect.readthedocs.io/
+- Documentation: https://pyscenedetect.readthedocs.io/
 - GitHub: https://github.com/Breakthrough/PySceneDetect

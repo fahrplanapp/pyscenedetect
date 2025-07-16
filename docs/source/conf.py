@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'France Bus API'
+project = 'PySceneDetect Overview'
 copyright = '2025, James Smith'
 author = 'James Smith'
 

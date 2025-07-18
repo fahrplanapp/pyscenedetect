@@ -77,3 +77,15 @@ Resources
 - Official Website: https://www.scenedetect.com/
 - Documentation: https://pyscenedetect.readthedocs.io/
 - GitHub: https://github.com/Breakthrough/PySceneDetect
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Comparing Scene Detection
+
+   scene-detection-&-splitting/comparing-scene-detection-algorithms
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Automating Scene
+
+   scene-detection-&-splitting/automating-scene-based-video-splitting

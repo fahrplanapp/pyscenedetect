@@ -89,3 +89,21 @@ Resources
    :caption: Automating Scene
 
    scene-detection-&-splitting/automating-scene-based-video-splitting
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Processing Multiple Videos
+
+   scene-detection-&-splitting/batch-processing-multiple-videos
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Exporting Scene Data
+
+   scene-detection-&-splitting/exporting-scene-data-for-video-editors
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Optimizing Splitting Performance
+
+   scene-detection-&-splitting/optimizing-splitting-performance

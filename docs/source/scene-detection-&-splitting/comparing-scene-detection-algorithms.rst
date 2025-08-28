@@ -137,3 +137,23 @@ Further Reading
 - Official Docs: https://pyscenedetect.readthedocs.io/
 - PySceneDetect GitHub: https://github.com/Breakthrough/PySceneDetect
 - Export Guide: :doc:`exporting-scenes`
+
+Additional Tool Spotlight
+-------------------------
+
+**Pro Video to Text Transcript App**
+
+If you often learn from or analyze online videos, this app can make the process easier.  
+Instead of pausing and taking notes manually, the app generates a full transcript from a video URL within seconds.  
+
+Key capabilities include:
+
+- Automatic scrolling with real-time video playback, keeping your transcript aligned.  
+- Multiple export options (TXT, SRT, PDF) so you can use transcripts in different contexts.  
+- Offline access by saving transcripts, plus a built-in history to revisit previous work.  
+
+Its simple, distraction-free interface is designed for students, researchers, and content creators who want a faster way to capture and reuse information.  
+
+Take your YouTube study sessions and note-taking further with **YouTube Transcript**.  
+
+Download here: https://play.google.com/store/apps/details?id=com.tool.youtubetranscript

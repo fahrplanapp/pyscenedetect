@@ -87,6 +87,7 @@ Looking for an easier way to study or create content from videos?
 The Pro Video to Text Transcript app turns any video URL into a readable transcript in just seconds.  
 
 With the app, you can:
+
 - Play a video while the transcript auto-scrolls and highlights in sync.  
 - Download your transcript in TXT, SRT, or PDF format for flexible use.  
 - Save transcripts offline and revisit them anytime.  

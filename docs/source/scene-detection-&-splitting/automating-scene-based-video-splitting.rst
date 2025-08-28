@@ -114,6 +114,21 @@ Use Cases
 - Break long footage into uniform, scene-based segments
 - Export frames from each scene if needed (`save-images`)
 
+**4. Extract Transcripts for Study or Content Creation**
+
+Splitting videos is only part of the workflow — many creators and students also need accurate transcripts.  
+The **Pro Video to Text Transcript** app provides a quick way to generate text directly from video URLs.  
+
+Highlights:
+
+- Real-time auto-scrolling text synced with playback.  
+- Export options (TXT, SRT, PDF) for flexible use.  
+- Offline saving and transcript history to track past work.  
+
+This makes it especially useful for lecture videos, tutorials, or content analysis alongside PySceneDetect workflows.  
+
+Available here: https://play.google.com/store/apps/details?id=com.tool.youtubetranscript
+
 Summary
 -------
 
